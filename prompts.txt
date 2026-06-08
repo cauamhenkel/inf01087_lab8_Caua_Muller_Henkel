@@ -1,0 +1,13 @@
+Parte 1:
+
+Primeiro prompt: “Olá, explique o que é a máquina de Turing.”
+
+Segundo prompt: “Considere que você vai dar uma palestra sobre a máquina de Turing e sua importância para a computação para os calouros de ciência da computação de uma universidade. 
+Explique os conceitos fundamentais e mais relevantes sobre o tema.”
+
+Parte 2:
+
+Primeiro prompt: "Faça um programa em C que peça o nome do usuário e depois printe na tela o nome invertido."
+
+Segundo prompt: "Faça um programa em C que peça o nome do usuário e depois printe na tela o nome invertido. 
+Adicione comentários explicativos, dê exemplos de entrada e saída e mencione algumas restrições de implementação."
