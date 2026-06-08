@@ -2,7 +2,7 @@
 
 ### Ferramentas utilizadas
 Foi usado o LLM Gemini gratuito no dia 08/06/2026.
-Ele possuia acesso à internet.
+Ele possuía acesso à internet.
 
 ### AI Usage Statement
 
