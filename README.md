@@ -4,6 +4,11 @@
 Foi usado o LLM Gemini gratuito no dia 08/06/2026.
 Ele possuía acesso à internet.
 
+## Descrição da atividade
+
+Nesse laboratório foram feitas atividades usando o LLM Gemini para comparar respostas dadas pelo modelo a partir de diferentes prompts.
+Também foram feitas reflexões em relação ao uso desses modelos no aprendizado.
+
 ## Uso responsável de LLMs
 
 ### Por que não devemos copiar respostas sem revisão?
